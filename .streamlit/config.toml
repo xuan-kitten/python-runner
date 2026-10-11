@@ -1,0 +1,13 @@
+# Streamlit 主题配置：整体浅绿色风格
+[theme]
+primaryColor = "#22a463"            # 主色（按钮、选中项）——绿色
+backgroundColor = "#eafbf0"         # 主区域背景——浅绿
+secondaryBackgroundColor = "#cdf0da" # 侧边栏/控件背景——稍深一点的浅绿
+textColor = "#12331f"               # 文字颜色——深绿黑
+font = "sans serif"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
